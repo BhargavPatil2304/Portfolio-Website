@@ -3,10 +3,10 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
+    title: "ProView AI",
     description: "A beautiful landing page app using React and Tailwind.",
-    image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
+    image: "/projects/ProView AI.png",
+    tags: ["React", "TailwindCSS","Node.js", "Express.js", "MongoDB", "JWT", "Gemini API"],
     demoUrl: "#",
     githubUrl: "#",
   },
@@ -16,7 +16,7 @@ const projects = [
     description:
       "Quickly condense lengthy articles into clear, concise summaries with a single click.",
     image: "/projects/Summarizer.png",
-    tags: ["HTML","Javascript","React", "Tailwind CSS", ],
+    tags: ["React", "Tailwind CSS","OpenWeatherAPI" ],
     demoUrl: "https://article-summarizer-plum.vercel.app/",
     githubUrl: "https://github.com/BhargavPatil2304/Article-Summarizer.git",
   },
