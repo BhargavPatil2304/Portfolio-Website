@@ -7,8 +7,8 @@ const projects = [
     description: "A beautiful landing page app using React and Tailwind.",
     image: "/projects/ProView AI.png",
     tags: ["React", "TailwindCSS","Node.js", "Express.js", "MongoDB", "JWT", "Gemini API"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://pro-view-ai.vercel.app/",
+    githubUrl: "https://github.com/BhargavPatil2304/ProView-AI.git",
   },
   {
     id: 2,
